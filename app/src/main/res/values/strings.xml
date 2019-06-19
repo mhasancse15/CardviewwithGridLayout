@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cardview with GridLayout</string>
+    <string name="book_title">Book Title</string>
+    <string name="title_activity_book">BookActivity</string>
+</resources>
